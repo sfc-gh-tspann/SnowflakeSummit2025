@@ -1,7 +1,11 @@
 # SnowflakeSummit2025
 News from Snowflake Summit 2025
 
+### References - All
 
+* https://www.snowflake.com/en/blog/announcements-snowflake-summit-2025/
+
+  
 
 ### References - AI
 
