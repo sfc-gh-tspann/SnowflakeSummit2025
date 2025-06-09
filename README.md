@@ -5,7 +5,14 @@ News from Snowflake Summit 2025
 
 * https://www.snowflake.com/en/blog/announcements-snowflake-summit-2025/
 
-  
+### Code / Examples / Repos - AI
+
+* https://github.com/Snowflake-Labs/summit-25-fun-zone-artifacts
+* https://github.com/Snowflake-Labs/sfguide-extracting-insights-from-video-with-multimodal-ai-analysis
+* https://github.com/Snowflake-Labs/Snowflake-AI-Toolkit
+* https://github.com/Snowflake-Labs/mcp
+* https://github.com/Snowflake-Labs/snowflake-flow-diff
+* https://github.com/Snowflake-Labs/talk_2_your_model
 
 ### References - AI
 
@@ -45,4 +52,10 @@ https://medium.com/tech-with-abhishek/data-governance-with-snowflake-and-genai-0
 
 * https://www.snowflake.com/en/blog/snowflake-postgres-enterprise-ai-database/
 * https://www.crunchydata.com/blog/crunchy-data-joins-snowflake
+* 
+
+
+#### Other Quickstarts and Projects
+
+* https://github.com/Snowflake-Labs/IAA-Support
 * 
