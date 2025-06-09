@@ -4,6 +4,8 @@ News from Snowflake Summit 2025
 ### References - All
 
 * https://www.snowflake.com/en/blog/announcements-snowflake-summit-2025/
+* https://medium.com/snowflake/snowflake-summit-2025-builders-recap-bddf3d5b7de3
+* https://www.linkedin.com/posts/sridhar-ramaswamy_snowflake-keynote-announcements-you-should-ugcPost-7335767849178722304-8Or2
 
 ### Code / Examples / Repos - AI
 
