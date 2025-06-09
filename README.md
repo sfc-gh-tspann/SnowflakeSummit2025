@@ -18,6 +18,9 @@ News from Snowflake Summit 2025
 ### Quick Starts - AI
 
 * https://quickstarts.snowflake.com/guide/getting_started_with_cortex_agents/index.html
+* https://github.com/Snowflake-Labs/sfguide-unlock-insights-from-unstructured-data-with-snowflake-cortex-ai
+* https://github.com/Snowflake-Labs/sfguide-build-data-agents-using-snowflake-cortex-ai
+* https://github.com/Snowflake-Labs/sfguide-create-a-route-optimisation-and-vehicle-route-plan-simulator
 
 ### Docmentation - AI
 
