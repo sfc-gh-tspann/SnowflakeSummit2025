@@ -19,3 +19,15 @@ News from Snowflake Summit 2025
 Cortex Knowledge Extensions (CKEs) are Cortex Search Services that can be shared on the Snowflake Marketplace or via private listings or organizational listings.
 https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-knowledge-extensions/cke-overview
 
+### Examples - AI
+
+Autotagging with AI
+https://medium.com/tech-with-abhishek/data-governance-with-snowflake-and-genai-070157b93ad4
+
+
+
+### References - Postgres
+
+* https://www.snowflake.com/en/blog/snowflake-postgres-enterprise-ai-database/
+* https://www.crunchydata.com/blog/crunchy-data-joins-snowflake
+* 
