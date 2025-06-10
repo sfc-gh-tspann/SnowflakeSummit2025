@@ -6,6 +6,7 @@ News from Snowflake Summit 2025
 * https://www.snowflake.com/en/blog/announcements-snowflake-summit-2025/
 * https://medium.com/snowflake/snowflake-summit-2025-builders-recap-bddf3d5b7de3
 * https://www.linkedin.com/posts/sridhar-ramaswamy_snowflake-keynote-announcements-you-should-ugcPost-7335767849178722304-8Or2
+* https://medium.com/tech-with-abhishek/%EF%B8%8F-10-snowflake-tips-i-wish-i-knew-before-scaling-to-100m-rows-80bcb5fbcf49
 
 ### Code / Examples / Repos - AI
 
