@@ -1,5 +1,18 @@
-# SnowflakeSummit2025
+## Snowflake Summit 2025
+
 News from Snowflake Summit 2025
+https://reg.snowflake.com/flow/snowflake/summit25/digitalreg/page/main/
+
+
+
+💥 Cortex AISQL: The BIGGEST SQL innovation since GROUP BY ALL - https://lnkd.in/gxKWAtuq
+
+💥 Snowflake Intelligence: Not just WHAT happened, but WHY - https://lnkd.in/gj-_qAb4
+
+💥 Adaptive Compute: SMARTER infrastructure decisions, better price/performance - https://lnkd.in/gBmgmGik
+
+💥 Snowflake Openflow: OPEN, extensible, managed, multi-modal data integration service - https://lnkd.in/g5p-Ui7c
+
 
 ### References - All
 
@@ -7,6 +20,7 @@ News from Snowflake Summit 2025
 * https://medium.com/snowflake/snowflake-summit-2025-builders-recap-bddf3d5b7de3
 * https://www.linkedin.com/posts/sridhar-ramaswamy_snowflake-keynote-announcements-you-should-ugcPost-7335767849178722304-8Or2
 * https://medium.com/tech-with-abhishek/%EF%B8%8F-10-snowflake-tips-i-wish-i-knew-before-scaling-to-100m-rows-80bcb5fbcf49
+* https://medium.com/snowflake/how-snowflakes-adaptive-warehouse-is-revolutionizing-data-operations-at-pfizer-f90f1730ef0c
 
 ### Code / Examples / Repos - AI
 
@@ -31,6 +45,7 @@ News from Snowflake Summit 2025
 * https://github.com/Snowflake-Labs/sfguide-unlock-insights-from-unstructured-data-with-snowflake-cortex-ai
 * https://github.com/Snowflake-Labs/sfguide-build-data-agents-using-snowflake-cortex-ai
 * https://github.com/Snowflake-Labs/sfguide-create-a-route-optimisation-and-vehicle-route-plan-simulator
+* https://quickstarts.snowflake.com/guide/getting-started-with-cortex-aisql/index.html#0
 
 ### Docmentation - AI
 
@@ -48,7 +63,6 @@ https://docs.snowflake.com/en/LIMITEDACCESS/snowflake-intelligence
 
 Autotagging with AI
 https://medium.com/tech-with-abhishek/data-governance-with-snowflake-and-genai-070157b93ad4
-
 
 
 ### References - Postgres
