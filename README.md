@@ -13,6 +13,15 @@ https://reg.snowflake.com/flow/snowflake/summit25/digitalreg/page/main/
 
 💥 Snowflake Openflow: OPEN, extensible, managed, multi-modal data integration service - https://lnkd.in/g5p-Ui7c
 
+### Videos
+
+* Day 3 Highlights - https://www.youtube.com/watch?v=wpiikXukYjc
+* Day 2 Highlights - https://www.youtube.com/watch?v=4GX4o7C0V5E
+* Platform Keynotes - https://www.youtube.com/watch?v=xXpqQk0CBZY
+* Opening Keynotes - https://www.youtube.com/watch?v=gJf39VG87O8
+* Snowflake Intelligence - https://www.youtube.com/watch?v=DRpTIDR0Naw
+
+
 
 ### References - All
 
@@ -38,6 +47,7 @@ https://reg.snowflake.com/flow/snowflake/summit25/digitalreg/page/main/
 * https://www.snowflake.com/en/blog/agentic-ai-ready-enterprise-data/
 * https://www.snowflake.com/en/blog/intelligence-snowflake-summit-2025/
 * https://datageeks.medium.com/snowflake-summit-2025-recap-game-changing-innovations-in-ai-data-engineering-and-governance-106a1796e907
+* https://docs.snowflake.com/en/user-guide/snowflake-copilot-inline
 
 ### Quick Starts - AI
 
