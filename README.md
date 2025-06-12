@@ -77,6 +77,20 @@ https://docs.snowflake.com/en/LIMITEDACCESS/snowflake-intelligence
 Autotagging with AI
 https://medium.com/tech-with-abhishek/data-governance-with-snowflake-and-genai-070157b93ad4
 
+### Distributed ML Training
+
+* https://quickstarts.snowflake.com/guide/build-ml-models-for-customer-conversions/index.html?index=..%2F..index#0
+* https://www.snowflake.com/en/developers/solutions-center/computer-vision-defect-detection-distributed-pytorch-snowflake-notebooks/
+
+
+### Security
+
+* https://medium.com/@peter.horrigan/lessons-in-automatic-rotation-381ae4851270
+* https://medium.com/@peter.horrigan/so-you-have-your-pat-in-vault-now-what-5757632f8d51
+
+
+### Marketplace 
+* https://app.snowflake.com/marketplace/listing/GZTYZ12K65EW/landingai-agentic-document-extraction?search=agentic+document+extraction&utm_medium=email&_hsenc=p2ANqtz-9XfGavvPWBRTPL1U_CslqBUAxle8y790WKQvbeY97AhaMgkbpnuPC9g6rzdAcy11kSwwAy6r0t015w_9yBI2q0COin3Q&_hsmi=366433288&utm_content=366433288&utm_source=hs_email
 
 ### References - Postgres
 
