@@ -48,6 +48,9 @@ https://reg.snowflake.com/flow/snowflake/summit25/digitalreg/page/main/
 * https://www.snowflake.com/en/blog/intelligence-snowflake-summit-2025/
 * https://datageeks.medium.com/snowflake-summit-2025-recap-game-changing-innovations-in-ai-data-engineering-and-governance-106a1796e907
 * https://docs.snowflake.com/en/user-guide/snowflake-copilot-inline
+* https://snowflakechronicles.medium.com/using-snowflake-copilot-your-ai-assistant-for-smarter-faster-data-analysis-cd7182c977ba
+* https://medium.com/snowflake/getting-started-with-snowflake-semantic-view-7eced29abe6f
+* https://medium.com/@umeshpatel_us/snowflake-summit-2025-summary-of-new-features-1e17d31e4456
 
 ### Quick Starts - AI
 
