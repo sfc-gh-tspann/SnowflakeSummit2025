@@ -90,16 +90,19 @@ https://medium.com/tech-with-abhishek/data-governance-with-snowflake-and-genai-0
 
 
 ### Marketplace 
+
 * https://app.snowflake.com/marketplace/listing/GZTYZ12K65EW/landingai-agentic-document-extraction?search=agentic+document+extraction&utm_medium=email&_hsenc=p2ANqtz-9XfGavvPWBRTPL1U_CslqBUAxle8y790WKQvbeY97AhaMgkbpnuPC9g6rzdAcy11kSwwAy6r0t015w_9yBI2q0COin3Q&_hsmi=366433288&utm_content=366433288&utm_source=hs_email
 
 ### References - Postgres
 
 * https://www.snowflake.com/en/blog/snowflake-postgres-enterprise-ai-database/
 * https://www.crunchydata.com/blog/crunchy-data-joins-snowflake
-* 
+  
 
 
 #### Other Quickstarts and Projects
 
 * https://github.com/Snowflake-Labs/IAA-Support
+* https://quickstarts.snowflake.com/guide/mfa-audit/index.html?index=..%2F..index#0
+* https://quickstarts.snowflake.com/guide/role-based-access-auditing/#0
 * 
