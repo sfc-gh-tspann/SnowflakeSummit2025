@@ -13,6 +13,7 @@ https://reg.snowflake.com/flow/snowflake/summit25/digitalreg/page/main/
 
 💥 Snowflake Openflow: OPEN, extensible, managed, multi-modal data integration service - https://lnkd.in/g5p-Ui7c
 
+
 ### Videos
 
 * Day 3 Highlights - https://www.youtube.com/watch?v=wpiikXukYjc
@@ -21,8 +22,6 @@ https://reg.snowflake.com/flow/snowflake/summit25/digitalreg/page/main/
 * Opening Keynotes - https://www.youtube.com/watch?v=gJf39VG87O8
 * Snowflake Intelligence - https://www.youtube.com/watch?v=DRpTIDR0Naw
 
-
-
 ### References - All
 
 * https://www.snowflake.com/en/blog/announcements-snowflake-summit-2025/
@@ -30,7 +29,16 @@ https://reg.snowflake.com/flow/snowflake/summit25/digitalreg/page/main/
 * https://www.linkedin.com/posts/sridhar-ramaswamy_snowflake-keynote-announcements-you-should-ugcPost-7335767849178722304-8Or2
 * https://medium.com/tech-with-abhishek/%EF%B8%8F-10-snowflake-tips-i-wish-i-knew-before-scaling-to-100m-rows-80bcb5fbcf49
 * https://medium.com/snowflake/how-snowflakes-adaptive-warehouse-is-revolutionizing-data-operations-at-pfizer-f90f1730ef0c
+* https://docs.snowflake.com/en/user-guide/warehouses-gen2
+* https://medium.com/@janlaz/the-future-of-data-is-here-key-snowflake-summit-launches-310e0dc9393b
+* https://medium.com/tech-with-abhishek/the-ultimate-snowflake-sql-features-bible-2025-edition-0cf2d74ce699
 
+
+### References - OpenFlow (Apache NiFi)
+
+* https://medium.com/snowflake/seamlessly-connect-dropbox-to-snowflake-with-openflow-849100312804
+
+  
 ### Code / Examples / Repos - AI
 
 * https://github.com/Snowflake-Labs/summit-25-fun-zone-artifacts
@@ -87,6 +95,7 @@ https://medium.com/tech-with-abhishek/data-governance-with-snowflake-and-genai-0
 
 * https://medium.com/@peter.horrigan/lessons-in-automatic-rotation-381ae4851270
 * https://medium.com/@peter.horrigan/so-you-have-your-pat-in-vault-now-what-5757632f8d51
+* https://snowflakechronicles.medium.com/strengthen-your-snowflake-security-posture-with-malicious-ip-protection-end-to-end-monitoring-and-29fe79e9b012
 
 
 ### Marketplace 
@@ -97,8 +106,11 @@ https://medium.com/tech-with-abhishek/data-governance-with-snowflake-and-genai-0
 
 * https://www.snowflake.com/en/blog/snowflake-postgres-enterprise-ai-database/
 * https://www.crunchydata.com/blog/crunchy-data-joins-snowflake
+* https://medium.com/@pascalpfffle/snowflake-unveils-snowflake-postgres-enterprise-grade-postgresql-for-the-ai-data-cloud-4aa8a21fea6c
   
+### References - OpenSource
 
+* https://medium.com/snowflake/apache-polaris-incubating-now-supports-3x-concurrent-transactions-with-new-relational-jdbc-2347dab4e37a
 
 #### Other Quickstarts and Projects
 
