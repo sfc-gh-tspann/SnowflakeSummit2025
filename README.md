@@ -3,7 +3,8 @@
 News from Snowflake Summit 2025
 https://reg.snowflake.com/flow/snowflake/summit25/digitalreg/page/main/
 
-
+Highlights
+https://careers.snowflake.com/us/en/blogarticle/five-key-takeaways-from-snowflake-summit
 
 💥 Cortex AISQL: The BIGGEST SQL innovation since GROUP BY ALL - https://lnkd.in/gxKWAtuq
 
