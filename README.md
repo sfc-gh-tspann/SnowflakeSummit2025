@@ -33,6 +33,8 @@ https://careers.snowflake.com/us/en/blogarticle/five-key-takeaways-from-snowflak
 * https://docs.snowflake.com/en/user-guide/warehouses-gen2
 * https://medium.com/@janlaz/the-future-of-data-is-here-key-snowflake-summit-launches-310e0dc9393b
 * https://medium.com/tech-with-abhishek/the-ultimate-snowflake-sql-features-bible-2025-edition-0cf2d74ce699
+* https://medium.com/@boghbogh/why-true-rbac-matters-b47b8e9edfa1
+* https://medium.com/@joelthedataguy/introduction-the-power-of-roles-for-data-segregation-ec1d3ad7fd69
 
 
 ### References - OpenFlow (Apache NiFi)
