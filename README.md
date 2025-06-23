@@ -17,6 +17,18 @@ https://careers.snowflake.com/us/en/blogarticle/five-key-takeaways-from-snowflak
 
 ### Videos
 
+* Snowflake Summit 2025 Builders Keynote    https://www.youtube.com/watch?v=slyY_JfON1Q
+* Grow Your Career in Data and AI AMA       https://www.youtube.com/watch?v=IMPNYRetMZA
+* Rethinking Data in the Age of AI: Better Tools, Worse Decisions?   https://www.youtube.com/watch?v=zlxjLwUHocc
+* The Simplicity Behind AI's Revolution: Scaling Laws And The Road To Human-Level Capabilities  https://www.youtube.com/watch?v=msBkzQmEahs
+* https://www.youtube.com/watch?v=W4Zr_9XyonU
+* https://www.youtube.com/watch?v=haYzR3v95y8
+* https://www.youtube.com/watch?v=QJTvsisV8UE
+* https://www.youtube.com/watch?v=XOJ_QuriBmA
+* sql  https://www.youtube.com/watch?v=InOwxVrXX5o
+* dbt  https://www.youtube.com/watch?v=w7C7OkmYPFs
+* semantic view hex https://www.youtube.com/watch?v=wnwvONwZyjI
+* MCP for cortex  https://www.youtube.com/watch?v=GO_P4Iov5Gg
 * Day 3 Highlights - https://www.youtube.com/watch?v=wpiikXukYjc
 * Day 2 Highlights - https://www.youtube.com/watch?v=4GX4o7C0V5E
 * Platform Keynotes - https://www.youtube.com/watch?v=xXpqQk0CBZY
