@@ -134,4 +134,6 @@ https://medium.com/tech-with-abhishek/data-governance-with-snowflake-and-genai-0
 * https://github.com/Snowflake-Labs/IAA-Support
 * https://quickstarts.snowflake.com/guide/mfa-audit/index.html?index=..%2F..index#0
 * https://quickstarts.snowflake.com/guide/role-based-access-auditing/#0
-* 
+* https://www.snowflake.com/en/blog/modernizing-xml-processing-financial-services/
+
+
