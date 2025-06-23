@@ -3,7 +3,8 @@
 News from Snowflake Summit 2025
 https://reg.snowflake.com/flow/snowflake/summit25/digitalreg/page/main/
 
-Highlights
+**Highlights**
+
 https://careers.snowflake.com/us/en/blogarticle/five-key-takeaways-from-snowflake-summit
 
 💥 Cortex AISQL: The BIGGEST SQL innovation since GROUP BY ALL - https://lnkd.in/gxKWAtuq
@@ -21,10 +22,10 @@ https://careers.snowflake.com/us/en/blogarticle/five-key-takeaways-from-snowflak
 * Grow Your Career in Data and AI AMA       https://www.youtube.com/watch?v=IMPNYRetMZA
 * Rethinking Data in the Age of AI: Better Tools, Worse Decisions?   https://www.youtube.com/watch?v=zlxjLwUHocc
 * The Simplicity Behind AI's Revolution: Scaling Laws And The Road To Human-Level Capabilities  https://www.youtube.com/watch?v=msBkzQmEahs
-* https://www.youtube.com/watch?v=W4Zr_9XyonU
-* https://www.youtube.com/watch?v=haYzR3v95y8
-* https://www.youtube.com/watch?v=QJTvsisV8UE
-* https://www.youtube.com/watch?v=XOJ_QuriBmA
+* Building Production-Ready AI Agents     https://www.youtube.com/watch?v=W4Zr_9XyonU
+* Building An Agentic Future              https://www.youtube.com/watch?v=haYzR3v95y8
+* Navigating The AI Transformation: Understanding AI's Impact On Work And Education      https://www.youtube.com/watch?v=QJTvsisV8UE
+* Enabling Everyone To Build With AI    https://www.youtube.com/watch?v=XOJ_QuriBmA
 * sql  https://www.youtube.com/watch?v=InOwxVrXX5o
 * dbt  https://www.youtube.com/watch?v=w7C7OkmYPFs
 * semantic view hex https://www.youtube.com/watch?v=wnwvONwZyjI
@@ -34,6 +35,7 @@ https://careers.snowflake.com/us/en/blogarticle/five-key-takeaways-from-snowflak
 * Platform Keynotes - https://www.youtube.com/watch?v=xXpqQk0CBZY
 * Opening Keynotes - https://www.youtube.com/watch?v=gJf39VG87O8
 * Snowflake Intelligence - https://www.youtube.com/watch?v=DRpTIDR0Naw
+
 
 ### References - All
 
