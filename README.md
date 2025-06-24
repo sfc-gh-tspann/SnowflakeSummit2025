@@ -129,11 +129,26 @@ https://medium.com/tech-with-abhishek/data-governance-with-snowflake-and-genai-0
 
 * https://medium.com/snowflake/apache-polaris-incubating-now-supports-3x-concurrent-transactions-with-new-relational-jdbc-2347dab4e37a
 
+
+#### Events
+
+https://www.snowflake.com/en/world-tour/nyc/?
+
+
 #### Other Quickstarts and Projects
 
 * https://github.com/Snowflake-Labs/IAA-Support
 * https://quickstarts.snowflake.com/guide/mfa-audit/index.html?index=..%2F..index#0
 * https://quickstarts.snowflake.com/guide/role-based-access-auditing/#0
 * https://www.snowflake.com/en/blog/modernizing-xml-processing-financial-services/
+* https://www.snowflake.com/dca-thankyou/generative-ai-ml-school-courses/
+* https://github.com/Snowflake-Labs/cortex-search/tree/main/examples
+* https://github.com/Snowflake-Labs/sf-samples/tree/main/samples/aisql/ecommerce_customer_review
+* https://github.com/Snowflake-Labs/sf-samples/blob/main/samples/aisql/ecommerce_customer_review/customer_reviews_insight.ipynb
+* https://github.com/Snowflake-Labs/sf-samples/tree/main/samples/cortex-analyst/Cortex%20Analyst%20Public%20Demo
+* https://github.com/Snowflake-Labs/orchestration-framework/blob/main/Quickstart.ipynb
+* https://github.com/Snowflake-Labs/snowflake-demo-streamlit/blob/main/Business%20Intelligence%20Dashboard/streamlit_app.py
+* https://github.com/Snowflake-Labs/snowflake-demo-streamlit/tree/main/Business%20Intelligence%20Dashboard
+* https://medium.com/@peter.horrigan/designing-break-glass-accounts-in-snowflake-lets-chat-about-emergency-access-0da1c7ef3436
 
 
