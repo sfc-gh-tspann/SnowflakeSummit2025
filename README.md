@@ -5,7 +5,6 @@ https://reg.snowflake.com/flow/snowflake/summit25/digitalreg/page/main/
 
 **Highlights**
 
-https://careers.snowflake.com/us/en/blogarticle/five-key-takeaways-from-snowflake-summit
 
 💥 Cortex AISQL: The BIGGEST SQL innovation since GROUP BY ALL - https://lnkd.in/gxKWAtuq
 
@@ -14,6 +13,17 @@ https://careers.snowflake.com/us/en/blogarticle/five-key-takeaways-from-snowflak
 💥 Adaptive Compute: SMARTER infrastructure decisions, better price/performance - https://lnkd.in/gBmgmGik
 
 💥 Snowflake Openflow: OPEN, extensible, managed, multi-modal data integration service - https://lnkd.in/g5p-Ui7c
+
+
+**Summary Articles**
+
+❄️ https://candf.com/our-insights/articles/snowflake-summit-2025-key-takeaways-for-data-leaders/
+
+❄️ https://careers.snowflake.com/us/en/blogarticle/five-key-takeaways-from-snowflake-summit
+
+❄️ https://sanjmo.medium.com/snowflake-summit-2025-unifying-the-data-universe-a07f399b04d7
+
+❄️ https://www.youtube.com/watch?v=kqj3SvKgnOY
 
 
 ### Videos
