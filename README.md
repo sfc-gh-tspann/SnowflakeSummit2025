@@ -160,5 +160,6 @@ https://www.snowflake.com/en/world-tour/nyc/?
 * https://github.com/Snowflake-Labs/snowflake-demo-streamlit/blob/main/Business%20Intelligence%20Dashboard/streamlit_app.py
 * https://github.com/Snowflake-Labs/snowflake-demo-streamlit/tree/main/Business%20Intelligence%20Dashboard
 * https://medium.com/@peter.horrigan/designing-break-glass-accounts-in-snowflake-lets-chat-about-emergency-access-0da1c7ef3436
+* https://quickstarts.snowflake.com/guide/getting-started-with-task-graphs/#4
 
 
